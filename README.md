@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Venkata Mahesh Allam</h1>
+<h3 align="center">🚀 DevOps Engineer | Kubernetes | AWS | SRE</h3>
 
-<!--
-**Maheshvenkata133/Maheshvenkata133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maheshvenkata133&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Working as a DevOps Engineer
+- ☸️ Managing Production Kubernetes Clusters (12 Worker + 3 Master HA)
+- 🚀 CI/CD using Jenkins & ArgoCD (GitOps Strategy)
+- 🏗 Infrastructure as Code using Terraform
+- 📊 Monitoring with Prometheus & Grafana
+- 📦 Containerization with Docker
+- ☁️ Cloud: AWS & GCP
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,nginx,grafana,prometheus" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheshvenkata133&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshvenkata133&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 DevOps Focus Areas
+
+- Kubernetes Deployments (Blue-Green, Rolling Updates)
+- GitOps using ArgoCD
+- High Availability Architecture
+- Production Incident Handling (SRE)
+- Monitoring & Alerting Setup
+- CI/CD Pipeline Automation
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (add your link)
+- 📧 Email: your-email@gmail.com
