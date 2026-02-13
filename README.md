@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venkata Mahesh Allam</h1>
 <h3 align="center">🚀 DevOps Engineer | Kubernetes | AWS | SRE</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Kubernetes+Specialist;AWS+Cloud+Engineer;SRE+Practitioner" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maheshvenkata133&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -25,6 +28,17 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,nginx,grafana,prometheus" />
 </p>
 
+
+---
+
+## 🔥 DevOps Focus Areas
+
+- Kubernetes Deployments (Blue-Green, Rolling Updates)
+- GitOps using ArgoCD
+- High Availability Architecture
+- Production Incident Handling (SRE)
+- Monitoring & Alerting Setup
+- CI/CD Pipeline Automation
 ---
 
 ## 📊 GitHub Stats
@@ -39,18 +53,7 @@
 
 ---
 
-## 🔥 DevOps Focus Areas
-
-- Kubernetes Deployments (Blue-Green, Rolling Updates)
-- GitOps using ArgoCD
-- High Availability Architecture
-- Production Incident Handling (SRE)
-- Monitoring & Alerting Setup
-- CI/CD Pipeline Automation
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/venkata-mahesh-allam-3707b9277
+
