@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkata Mahesh Allam</h1>
+<h1 align="center">Hi 👋, I'm Venkata Mahesh </h1>
 <h3 align="center">🚀A passionate DevOps Engineer </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Kubernetes+Specialist;AWS+Cloud+Engineer;SRE+Practitioner" />
