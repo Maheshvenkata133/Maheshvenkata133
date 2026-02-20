@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Mahesh </h1>
-<h3 align="center">🚀A passionate DevOps Engineer </h3>
+<h3 align="center">🚀A passionate DevSecOps Engineer </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Kubernetes+Specialist;AWS+Cloud+Engineer;SRE+Practitioner" />
 </p>
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Working as a DevOps Engineer
+- 🔭 Working as a DevSecOps Engineer
 - ☸️ Managing Production Kubernetes Clusters 
 - 🚀 CI/CD using Jenkins & ArgoCD (GitOps Strategy)
 - 🏗 Infrastructure as Code using Terraform
