@@ -25,7 +25,7 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,shell,nginx,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,nginx,grafana,prometheus" />
 </p>
 
 ---
